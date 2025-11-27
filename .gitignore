@@ -1,0 +1,13 @@
+*.o 
+*.a
+*.so
+*.out
+*.obj
+*.exe
+
+imgui.ini
+render
+
+build/
+bin/
+obj/
